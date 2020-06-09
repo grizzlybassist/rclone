@@ -1,0 +1,11 @@
+-------------------------------start----------------------------
+Sun Jun  7 04:00:11 CDT 2020 kile-deb2 Archive to BackBlaze B2
+----------------------------------------------------------------
+Moving files from /mnt/unraid/YouTube/Archive to b2:kile-nas1-archive/ubld-archive at Sun Jun  7 04:00:11 CDT 2020
+Completed archive of /mnt/unraid/YouTube/Archive at Sun Jun  7 04:00:13 CDT 2020 with error 0
+find: ‘/mnt/unraid/YouTube/Archive/*’: No such file or directory
+----------------------------------------------------------------
+Moving files from /mnt/unraid/YouTube/Rejected to b2:kile-nas1-archive/ubld-rejects at Sun Jun  7 04:00:13 CDT 2020
+Completed archive of /mnt/unraid/YouTube/Rejected at Sun Jun  7 04:00:14 CDT 2020 with error 0
+find: ‘/mnt/unraid/YouTube/Rejected/*’: No such file or directory
+-------------------------------done-----------------------------

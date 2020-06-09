@@ -1,0 +1,117 @@
+-------------------------------start----------------------------
+Tue May 12 00:00:02 CDT 2020 kile-deb2 rclone backup
+----------------------------------------------------------------
+Copying files from /mnt/unraid/Cronjobs to b2:kile-nas1/unraid/Cronjobs at Tue May 12 00:00:02 CDT 2020
+2020/05/12 00:01:42 Failed to create file system for "b2:kile-nas1/unraid/Cronjobs": failed to authorize account: failed to authenticate: Get https://api.backblazeb2.com/b2api/v1/b2_authorize_account: dial tcp: lookup api.backblazeb2.com on 192.168.2.1:53: read udp 192.168.2.252:44419->192.168.2.1:53: i/o timeout
+2020/05/12 00:03:22 Failed to create file system for "b2:kile-nas1/unraid/Cronjobs": failed to authorize account: failed to authenticate: Get https://api.backblazeb2.com/b2api/v1/b2_authorize_account: dial tcp: lookup api.backblazeb2.com on 192.168.2.1:53: read udp 192.168.2.252:41089->192.168.2.1:53: i/o timeout
+2020/05/12 00:05:02 Failed to create file system for "b2:kile-nas1/unraid/Cronjobs": failed to authorize account: failed to authenticate: Get https://api.backblazeb2.com/b2api/v1/b2_authorize_account: dial tcp: lookup api.backblazeb2.com on 192.168.2.1:53: read udp 192.168.2.252:35686->192.168.2.1:53: i/o timeout
+Completed copy of /mnt/unraid/Cronjobs at Tue May 12 00:05:02 CDT 2020 with error code 1
+Total size of b2:kile-nas1/unraid/Cronjobs is:
+
+Total size of b2:kile-nas1/unraid/Cronjobs with VERSIONS is:
+
+----------------------------------------------------------------
+Copying files from /mnt/unraid/Emulation to b2:kile-nas1/unraid/Emulation at Tue May 12 00:05:02 CDT 2020
+2020/05/12 00:06:42 Failed to create file system for "b2:kile-nas1/unraid/Emulation": failed to authorize account: failed to authenticate: Get https://api.backblazeb2.com/b2api/v1/b2_authorize_account: dial tcp: lookup api.backblazeb2.com on 192.168.2.1:53: read udp 192.168.2.252:51614->192.168.2.1:53: i/o timeout
+2020/05/12 00:08:22 Failed to create file system for "b2:kile-nas1/unraid/Emulation": failed to authorize account: failed to authenticate: Get https://api.backblazeb2.com/b2api/v1/b2_authorize_account: dial tcp: lookup api.backblazeb2.com on 192.168.2.1:53: read udp 192.168.2.252:35308->192.168.2.1:53: i/o timeout
+2020/05/12 00:10:02 Failed to create file system for "b2:kile-nas1/unraid/Emulation": failed to authorize account: failed to authenticate: Get https://api.backblazeb2.com/b2api/v1/b2_authorize_account: dial tcp: lookup api.backblazeb2.com on 192.168.2.1:53: read udp 192.168.2.252:47974->192.168.2.1:53: i/o timeout
+Completed copy of /mnt/unraid/Emulation at Tue May 12 00:10:02 CDT 2020 with error code 1
+Total size of b2:kile-nas1/unraid/Emulation is:
+
+Total size of b2:kile-nas1/unraid/Emulation with VERSIONS is:
+
+----------------------------------------------------------------
+Copying files from /mnt/unraid/Installers to b2:kile-nas1/unraid/Installers at Tue May 12 00:10:02 CDT 2020
+2020/05/12 00:11:42 Failed to create file system for "b2:kile-nas1/unraid/Installers": failed to authorize account: failed to authenticate: Get https://api.backblazeb2.com/b2api/v1/b2_authorize_account: dial tcp: lookup api.backblazeb2.com on 192.168.2.1:53: read udp 192.168.2.252:45354->192.168.2.1:53: i/o timeout
+2020/05/12 00:13:22 Failed to create file system for "b2:kile-nas1/unraid/Installers": failed to authorize account: failed to authenticate: Get https://api.backblazeb2.com/b2api/v1/b2_authorize_account: dial tcp: lookup api.backblazeb2.com on 192.168.2.1:53: read udp 192.168.2.252:43613->192.168.2.1:53: i/o timeout
+2020/05/12 00:15:02 Failed to create file system for "b2:kile-nas1/unraid/Installers": failed to authorize account: failed to authenticate: Get https://api.backblazeb2.com/b2api/v1/b2_authorize_account: dial tcp: lookup api.backblazeb2.com on 192.168.2.1:53: read udp 192.168.2.252:44494->192.168.2.1:53: i/o timeout
+Completed copy of /mnt/unraid/Installers at Tue May 12 00:15:02 CDT 2020 with error code 1
+Total size of b2:kile-nas1/unraid/Installers is:
+
+Total size of b2:kile-nas1/unraid/Installers with VERSIONS is:
+
+----------------------------------------------------------------
+Copying files from /mnt/unraid/kilefam to b2:kile-nas1/unraid/kilefam at Tue May 12 00:15:02 CDT 2020
+2020/05/12 00:16:43 Failed to create file system for "b2:kile-nas1/unraid/kilefam": failed to authorize account: failed to authenticate: Get https://api.backblazeb2.com/b2api/v1/b2_authorize_account: dial tcp: lookup api.backblazeb2.com on 192.168.2.1:53: read udp 192.168.2.252:57173->192.168.2.1:53: i/o timeout
+2020/05/12 00:18:23 Failed to create file system for "b2:kile-nas1/unraid/kilefam": failed to authorize account: failed to authenticate: Get https://api.backblazeb2.com/b2api/v1/b2_authorize_account: dial tcp: lookup api.backblazeb2.com on 192.168.2.1:53: read udp 192.168.2.252:58575->192.168.2.1:53: i/o timeout
+2020/05/12 00:20:03 Failed to create file system for "b2:kile-nas1/unraid/kilefam": failed to authorize account: failed to authenticate: Get https://api.backblazeb2.com/b2api/v1/b2_authorize_account: dial tcp: lookup api.backblazeb2.com on 192.168.2.1:53: read udp 192.168.2.252:37594->192.168.2.1:53: i/o timeout
+Completed copy of /mnt/unraid/kilefam at Tue May 12 00:20:03 CDT 2020 with error code 1
+Total size of b2:kile-nas1/unraid/kilefam is:
+
+Total size of b2:kile-nas1/unraid/kilefam with VERSIONS is:
+
+----------------------------------------------------------------
+Copying files from /mnt/unraid/Photos to b2:kile-nas1/unraid/Photos at Tue May 12 00:20:03 CDT 2020
+2020/05/12 00:21:43 Failed to create file system for "b2:kile-nas1/unraid/Photos": failed to authorize account: failed to authenticate: Get https://api.backblazeb2.com/b2api/v1/b2_authorize_account: dial tcp: lookup api.backblazeb2.com on 192.168.2.1:53: read udp 192.168.2.252:42773->192.168.2.1:53: i/o timeout
+2020/05/12 00:23:23 Failed to create file system for "b2:kile-nas1/unraid/Photos": failed to authorize account: failed to authenticate: Get https://api.backblazeb2.com/b2api/v1/b2_authorize_account: dial tcp: lookup api.backblazeb2.com on 192.168.2.1:53: read udp 192.168.2.252:40720->192.168.2.1:53: i/o timeout
+2020/05/12 00:25:03 Failed to create file system for "b2:kile-nas1/unraid/Photos": failed to authorize account: failed to authenticate: Get https://api.backblazeb2.com/b2api/v1/b2_authorize_account: dial tcp: lookup api.backblazeb2.com on 192.168.2.1:53: read udp 192.168.2.252:56739->192.168.2.1:53: i/o timeout
+Completed copy of /mnt/unraid/Photos at Tue May 12 00:25:03 CDT 2020 with error code 1
+Total size of b2:kile-nas1/unraid/Photos is:
+
+Total size of b2:kile-nas1/unraid/Photos with VERSIONS is:
+
+----------------------------------------------------------------
+Copying files from /mnt/unraid/Projects to b2:kile-nas1/unraid/Projects at Tue May 12 00:25:03 CDT 2020
+2020/05/12 00:26:43 Failed to create file system for "b2:kile-nas1/unraid/Projects": failed to authorize account: failed to authenticate: Get https://api.backblazeb2.com/b2api/v1/b2_authorize_account: dial tcp: lookup api.backblazeb2.com on 192.168.2.1:53: read udp 192.168.2.252:36887->192.168.2.1:53: i/o timeout
+2020/05/12 00:28:23 Failed to create file system for "b2:kile-nas1/unraid/Projects": failed to authorize account: failed to authenticate: Get https://api.backblazeb2.com/b2api/v1/b2_authorize_account: dial tcp: lookup api.backblazeb2.com on 192.168.2.1:53: read udp 192.168.2.252:46037->192.168.2.1:53: i/o timeout
+2020/05/12 00:30:03 Failed to create file system for "b2:kile-nas1/unraid/Projects": failed to authorize account: failed to authenticate: Get https://api.backblazeb2.com/b2api/v1/b2_authorize_account: dial tcp: lookup api.backblazeb2.com on 192.168.2.1:53: read udp 192.168.2.252:47617->192.168.2.1:53: i/o timeout
+Completed copy of /mnt/unraid/Projects at Tue May 12 00:30:03 CDT 2020 with error code 1
+Total size of b2:kile-nas1/unraid/Projects is:
+
+Total size of b2:kile-nas1/unraid/Projects with VERSIONS is:
+
+----------------------------------------------------------------
+Copying files from /mnt/unraid/ryan.kile to b2:kile-nas1/unraid/ryan.kile at Tue May 12 00:30:03 CDT 2020
+2020/05/12 00:31:43 Failed to create file system for "b2:kile-nas1/unraid/ryan.kile": failed to authorize account: failed to authenticate: Get https://api.backblazeb2.com/b2api/v1/b2_authorize_account: dial tcp: lookup api.backblazeb2.com on 192.168.2.1:53: read udp 192.168.2.252:37369->192.168.2.1:53: i/o timeout
+2020/05/12 00:33:23 Failed to create file system for "b2:kile-nas1/unraid/ryan.kile": failed to authorize account: failed to authenticate: Get https://api.backblazeb2.com/b2api/v1/b2_authorize_account: dial tcp: lookup api.backblazeb2.com on 192.168.2.1:53: read udp 192.168.2.252:51761->192.168.2.1:53: i/o timeout
+2020/05/12 00:35:03 Failed to create file system for "b2:kile-nas1/unraid/ryan.kile": failed to authorize account: failed to authenticate: Get https://api.backblazeb2.com/b2api/v1/b2_authorize_account: dial tcp: lookup api.backblazeb2.com on 192.168.2.1:53: read udp 192.168.2.252:39642->192.168.2.1:53: i/o timeout
+Completed copy of /mnt/unraid/ryan.kile at Tue May 12 00:35:03 CDT 2020 with error code 1
+Total size of b2:kile-nas1/unraid/ryan.kile is:
+
+Total size of b2:kile-nas1/unraid/ryan.kile with VERSIONS is:
+
+----------------------------------------------------------------
+Copying files from /mnt/unraid/Transfer to b2:kile-nas1/unraid/Transfer at Tue May 12 00:35:04 CDT 2020
+2020/05/12 00:36:44 Failed to create file system for "b2:kile-nas1/unraid/Transfer": failed to authorize account: failed to authenticate: Get https://api.backblazeb2.com/b2api/v1/b2_authorize_account: dial tcp: lookup api.backblazeb2.com on 192.168.2.1:53: read udp 192.168.2.252:56061->192.168.2.1:53: i/o timeout
+2020/05/12 00:38:24 Failed to create file system for "b2:kile-nas1/unraid/Transfer": failed to authorize account: failed to authenticate: Get https://api.backblazeb2.com/b2api/v1/b2_authorize_account: dial tcp: lookup api.backblazeb2.com on 192.168.2.1:53: read udp 192.168.2.252:33482->192.168.2.1:53: i/o timeout
+2020/05/12 00:40:04 Failed to create file system for "b2:kile-nas1/unraid/Transfer": failed to authorize account: failed to authenticate: Get https://api.backblazeb2.com/b2api/v1/b2_authorize_account: dial tcp: lookup api.backblazeb2.com on 192.168.2.1:53: read udp 192.168.2.252:35321->192.168.2.1:53: i/o timeout
+Completed copy of /mnt/unraid/Transfer at Tue May 12 00:40:04 CDT 2020 with error code 1
+Total size of b2:kile-nas1/unraid/Transfer is:
+
+Total size of b2:kile-nas1/unraid/Transfer with VERSIONS is:
+
+----------------------------------------------------------------
+Copying files from /mnt/unraid/Vault to b2:kile-nas1/unraid/Vault at Tue May 12 00:40:04 CDT 2020
+2020/05/12 00:41:44 Failed to create file system for "b2:kile-nas1/unraid/Vault": failed to authorize account: failed to authenticate: Get https://api.backblazeb2.com/b2api/v1/b2_authorize_account: dial tcp: lookup api.backblazeb2.com on 192.168.2.1:53: read udp 192.168.2.252:60818->192.168.2.1:53: i/o timeout
+2020/05/12 00:43:24 Failed to create file system for "b2:kile-nas1/unraid/Vault": failed to authorize account: failed to authenticate: Get https://api.backblazeb2.com/b2api/v1/b2_authorize_account: dial tcp: lookup api.backblazeb2.com on 192.168.2.1:53: read udp 192.168.2.252:54268->192.168.2.1:53: i/o timeout
+2020/05/12 00:45:04 Failed to create file system for "b2:kile-nas1/unraid/Vault": failed to authorize account: failed to authenticate: Get https://api.backblazeb2.com/b2api/v1/b2_authorize_account: dial tcp: lookup api.backblazeb2.com on 192.168.2.1:53: read udp 192.168.2.252:58651->192.168.2.1:53: i/o timeout
+Completed copy of /mnt/unraid/Vault at Tue May 12 00:45:04 CDT 2020 with error code 1
+Total size of b2:kile-nas1/unraid/Vault is:
+
+Total size of b2:kile-nas1/unraid/Vault with VERSIONS is:
+
+----------------------------------------------------------------
+Copying files from /mnt/unraid/YouTube to b2:kile-nas1/unraid/YouTube at Tue May 12 00:45:04 CDT 2020
+2020/05/12 00:46:44 Failed to create file system for "b2:kile-nas1/unraid/YouTube": failed to authorize account: failed to authenticate: Get https://api.backblazeb2.com/b2api/v1/b2_authorize_account: dial tcp: lookup api.backblazeb2.com on 192.168.2.1:53: read udp 192.168.2.252:42582->192.168.2.1:53: i/o timeout
+2020/05/12 00:48:24 Failed to create file system for "b2:kile-nas1/unraid/YouTube": failed to authorize account: failed to authenticate: Get https://api.backblazeb2.com/b2api/v1/b2_authorize_account: dial tcp: lookup api.backblazeb2.com on 192.168.2.1:53: read udp 192.168.2.252:56104->192.168.2.1:53: i/o timeout
+2020/05/12 00:50:04 Failed to create file system for "b2:kile-nas1/unraid/YouTube": failed to authorize account: failed to authenticate: Get https://api.backblazeb2.com/b2api/v1/b2_authorize_account: dial tcp: lookup api.backblazeb2.com on 192.168.2.1:53: read udp 192.168.2.252:51339->192.168.2.1:53: i/o timeout
+Completed copy of /mnt/unraid/YouTube at Tue May 12 00:50:04 CDT 2020 with error code 1
+Total size of b2:kile-nas1/unraid/YouTube is:
+
+Total size of b2:kile-nas1/unraid/YouTube with VERSIONS is:
+
+----------------------------------------------------------------
+Copying files from /mnt/unraid/Media/Projects to b2:kile-nas1/unraid/Media/Projects at Tue May 12 00:50:04 CDT 2020
+2020/05/12 00:51:44 Failed to create file system for "b2:kile-nas1/unraid/Media/Projects": failed to authorize account: failed to authenticate: Get https://api.backblazeb2.com/b2api/v1/b2_authorize_account: dial tcp: lookup api.backblazeb2.com on 192.168.2.1:53: read udp 192.168.2.252:41802->192.168.2.1:53: i/o timeout
+2020/05/12 00:53:24 Failed to create file system for "b2:kile-nas1/unraid/Media/Projects": failed to authorize account: failed to authenticate: Get https://api.backblazeb2.com/b2api/v1/b2_authorize_account: dial tcp: lookup api.backblazeb2.com on 192.168.2.1:53: read udp 192.168.2.252:43793->192.168.2.1:53: i/o timeout
+Completed copy of /mnt/unraid/Media/Projects at Tue May 12 00:53:32 CDT 2020 with error code 1
+Total size of b2:kile-nas1/unraid/Media/Projects is:
+
+Total size of b2:kile-nas1/unraid/Media/Projects with VERSIONS is:
+111.338 GBytes
+----------------------------------------------------------------
+Total storage on b2:kile-nas1 is:
+3.863 TBytes
+Total storage on b2:kile-nas1 with VERSIONS is:
+3.863 TBytes
+-------------------------------done-----------------------------

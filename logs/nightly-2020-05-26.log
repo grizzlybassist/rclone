@@ -1,0 +1,95 @@
+-------------------------------start----------------------------
+Tue May 26 00:00:02 CDT 2020 kile-deb2 rclone backup
+----------------------------------------------------------------
+Copying files from /mnt/unraid/Cronjobs to b2:kile-nas1/unraid/Cronjobs at Tue May 26 00:00:02 CDT 2020
+2020/05/26 00:00:09 ERROR : backups/logs/rsync-clean-2020-05-26.log: Failed to copy: Post https://pod-000-1137-11.backblaze.com/b2api/v1/b2_upload_file/db4788eb8398abd751c80811/c001_v0001137_t0018: can't copy - source file is being updated (size changed from 2336 to 2611)
+2020/05/26 00:00:09 ERROR : rclone/logs/nightly-2020-05-26.log: corrupted on transfer: SHA-1 hash differ "35df448ae4ce0093a79f0172a2b0601c9a007951" vs "d541bb60628ee60c6f52f86125940840c1ce316e"
+2020/05/26 00:00:14 ERROR : B2 bucket kile-nas1 path unraid/Cronjobs: not deleting files as there were IO errors
+2020/05/26 00:00:14 ERROR : B2 bucket kile-nas1 path unraid/Cronjobs: not deleting directories as there were IO errors
+2020/05/26 00:00:14 ERROR : Attempt 1/20 failed with 5 errors and: corrupted on transfer: SHA-1 hash differ "35df448ae4ce0093a79f0172a2b0601c9a007951" vs "d541bb60628ee60c6f52f86125940840c1ce316e"
+2020/05/26 00:00:17 ERROR : backups/logs/rsync-clean-2020-05-26.log: Failed to copy: Post https://pod-000-1137-03.backblaze.com/b2api/v1/b2_upload_file/db4788eb8398abd751c80811/c001_v0001137_t0013: can't copy - source file is being updated (size changed from 4917 to 5206)
+2020/05/26 00:00:17 ERROR : B2 bucket kile-nas1 path unraid/Cronjobs: not deleting files as there were IO errors
+2020/05/26 00:00:17 ERROR : B2 bucket kile-nas1 path unraid/Cronjobs: not deleting directories as there were IO errors
+2020/05/26 00:00:17 ERROR : Attempt 2/20 failed with 3 errors and: Post https://pod-000-1137-03.backblaze.com/b2api/v1/b2_upload_file/db4788eb8398abd751c80811/c001_v0001137_t0013: can't copy - source file is being updated (size changed from 4917 to 5206)
+2020/05/26 00:00:22 ERROR : Attempt 3/20 succeeded
+Completed copy of /mnt/unraid/Cronjobs at Tue May 26 00:00:28 CDT 2020 with error code 0
+Total size of b2:kile-nas1/unraid/Cronjobs is:
+14.591 MBytes
+Total size of b2:kile-nas1/unraid/Cronjobs with VERSIONS is:
+24.770 MBytes
+----------------------------------------------------------------
+Copying files from /mnt/unraid/Emulation to b2:kile-nas1/unraid/Emulation at Tue May 26 00:00:28 CDT 2020
+Completed copy of /mnt/unraid/Emulation at Tue May 26 00:01:39 CDT 2020 with error code 0
+Total size of b2:kile-nas1/unraid/Emulation is:
+70.111 GBytes
+Total size of b2:kile-nas1/unraid/Emulation with VERSIONS is:
+70.111 GBytes
+----------------------------------------------------------------
+Copying files from /mnt/unraid/Installers to b2:kile-nas1/unraid/Installers at Tue May 26 00:01:39 CDT 2020
+Completed copy of /mnt/unraid/Installers at Tue May 26 00:02:22 CDT 2020 with error code 0
+Total size of b2:kile-nas1/unraid/Installers is:
+218.412 GBytes
+Total size of b2:kile-nas1/unraid/Installers with VERSIONS is:
+218.412 GBytes
+----------------------------------------------------------------
+Copying files from /mnt/unraid/kilefam to b2:kile-nas1/unraid/kilefam at Tue May 26 00:02:22 CDT 2020
+Completed copy of /mnt/unraid/kilefam at Tue May 26 00:13:52 CDT 2020 with error code 0
+Total size of b2:kile-nas1/unraid/kilefam is:
+114.304 GBytes
+Total size of b2:kile-nas1/unraid/kilefam with VERSIONS is:
+114.304 GBytes
+----------------------------------------------------------------
+Copying files from /mnt/unraid/Photos to b2:kile-nas1/unraid/Photos at Tue May 26 00:13:52 CDT 2020
+Completed copy of /mnt/unraid/Photos at Tue May 26 00:14:16 CDT 2020 with error code 0
+Total size of b2:kile-nas1/unraid/Photos is:
+44.395 GBytes
+Total size of b2:kile-nas1/unraid/Photos with VERSIONS is:
+44.395 GBytes
+----------------------------------------------------------------
+Copying files from /mnt/unraid/Projects to b2:kile-nas1/unraid/Projects at Tue May 26 00:14:16 CDT 2020
+Completed copy of /mnt/unraid/Projects at Tue May 26 00:15:31 CDT 2020 with error code 0
+Total size of b2:kile-nas1/unraid/Projects is:
+401.694 GBytes
+Total size of b2:kile-nas1/unraid/Projects with VERSIONS is:
+401.694 GBytes
+----------------------------------------------------------------
+Copying files from /mnt/unraid/ryan.kile to b2:kile-nas1/unraid/ryan.kile at Tue May 26 00:15:31 CDT 2020
+Completed copy of /mnt/unraid/ryan.kile at Tue May 26 00:20:21 CDT 2020 with error code 0
+Total size of b2:kile-nas1/unraid/ryan.kile is:
+258.221 GBytes
+Total size of b2:kile-nas1/unraid/ryan.kile with VERSIONS is:
+258.221 GBytes
+----------------------------------------------------------------
+Copying files from /mnt/unraid/Transfer to b2:kile-nas1/unraid/Transfer at Tue May 26 00:20:21 CDT 2020
+Completed copy of /mnt/unraid/Transfer at Tue May 26 00:20:34 CDT 2020 with error code 0
+Total size of b2:kile-nas1/unraid/Transfer is:
+139.766 GBytes
+Total size of b2:kile-nas1/unraid/Transfer with VERSIONS is:
+139.766 GBytes
+----------------------------------------------------------------
+Copying files from /mnt/unraid/Vault to b2:kile-nas1/unraid/Vault at Tue May 26 00:20:34 CDT 2020
+Completed copy of /mnt/unraid/Vault at Tue May 26 00:20:49 CDT 2020 with error code 0
+Total size of b2:kile-nas1/unraid/Vault is:
+2.361 TBytes
+Total size of b2:kile-nas1/unraid/Vault with VERSIONS is:
+2.361 TBytes
+----------------------------------------------------------------
+Copying files from /mnt/unraid/YouTube to b2:kile-nas1/unraid/YouTube at Tue May 26 00:20:49 CDT 2020
+Completed copy of /mnt/unraid/YouTube at Tue May 26 00:20:59 CDT 2020 with error code 0
+Total size of b2:kile-nas1/unraid/YouTube is:
+232.550 GBytes
+Total size of b2:kile-nas1/unraid/YouTube with VERSIONS is:
+232.550 GBytes
+----------------------------------------------------------------
+Copying files from /mnt/unraid/Media/Projects to b2:kile-nas1/unraid/Media/Projects at Tue May 26 00:20:59 CDT 2020
+Completed copy of /mnt/unraid/Media/Projects at Tue May 26 00:21:07 CDT 2020 with error code 0
+Total size of b2:kile-nas1/unraid/Media/Projects is:
+111.338 GBytes
+Total size of b2:kile-nas1/unraid/Media/Projects with VERSIONS is:
+111.338 GBytes
+----------------------------------------------------------------
+Total storage on b2:kile-nas1 is:
+3.914 TBytes
+Total storage on b2:kile-nas1 with VERSIONS is:
+3.914 TBytes
+-------------------------------done-----------------------------
